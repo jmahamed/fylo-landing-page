@@ -99,6 +99,7 @@ nav {
 }
 
 .hero-txt h2 {
+    margin-top: 36px;
     font-size: 40px;
     line-height: 60px;
 }
@@ -129,9 +130,9 @@ nav {
 
 .bg-img {
     position: absolute;
-    top: 780px;
+    top: 825px;
     z-index: -5;
-    height:2735px;
+    height:2698px;
 }
 
 .features {
